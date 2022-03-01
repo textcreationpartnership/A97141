@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The analysis, explication, and application, of the sacred and Solemne League and Covenant, for the reformation, and defence of religion, the honour and happinesse of the King, and the peace and safety of the three kingdomes of England, Scotland, and Ireland. Enjoyned by the Lords and Commons, assembled in Parliament in England, and the states of Scotland, to be taken by every man throughout all the three kingdomes. Very usefull, and profitable to be read, observed, and kept by all who take the said covenant. By Richard Ward, Minister of Stansteed Mount Fitches, in Essex.</title>
+            <author>Ward, Richard, 1601 or 2-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97141</idno>
+            <idno type="STC">Wing W798</idno>
+            <idno type="STC">Thomason E70_20</idno>
+            <idno type="STC">ESTC R5685</idno>
+            <idno type="EEBO-CITATION">99872881</idno>
+            <idno type="PROQUEST">99872881</idno>
+            <idno type="VID">125327</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125327)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E70[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The analysis, explication, and application, of the sacred and Solemne League and Covenant, for the reformation, and defence of religion, the honour and happinesse of the King, and the peace and safety of the three kingdomes of England, Scotland, and Ireland. Enjoyned by the Lords and Commons, assembled in Parliament in England, and the states of Scotland, to be taken by every man throughout all the three kingdomes. Very usefull, and profitable to be read, observed, and kept by all who take the said covenant. By Richard Ward, Minister of Stansteed Mount Fitches, in Essex.</title>
+                  <author>Ward, Richard, 1601 or 2-1684.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for J, Dallam,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125327:1" rendition="simple:additions"/>
+            <p>THE ANALYSIS, Explication, and Application, of the Sacred and Solemne <hi>League</hi> and <hi>Covenant,</hi> FOR The Reformation, and Defence of Religion, the Honour and Happineſſe of the King, and the Peace and ſafety of the three Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Enjoyned by the Lords and Commons, aſſembled in Parliament in <hi>England,</hi> and the States of <hi>Scotland,</hi> to be taken by every man throughout all the three KINGDOMES.</p>
+            <p>Very uſefull, and profitable to be read, obſerved, and kept by all who take the ſaid <hi>Covenant.</hi>
+            </p>
+            <p>By RICHARD WARD, <hi>Miniſter of Stanſteed Mount Fitchet, in</hi> ESSEX.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>James Cranford.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London,</hi> for <hi>J. D<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125327:2"/>
+            <head>The Analyſis, Explication, and Application, of the ſacred and Solemne LEAGVE and COVENANT.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the <hi>League,</hi> or <hi>Covenant,</hi> we may obſerve theſe three generall parts, viz. The <hi>Exordium, Narration,</hi> and <hi>Con<g ref="char:EOLhyphen"/>cluſion.</hi>
+            </p>
+            <p>FIRST, in the <hi>Exordium</hi> is onely ſhewed, the oc<g ref="char:EOLhyphen"/>caſion, moving cauſe, neceſſity, and end of the taking of this <hi>Covenant,</hi> which is ſo obvious and perſpicu<g ref="char:EOLhyphen"/>ous to every eye, that I forbeare (for brevities ſake) the particular anatomizing, and analyſing thereof.</p>
+            <p>SECONDLY, in the <hi>Narration,</hi> or <hi>Narrative part</hi> of this <hi>Covenant,</hi> are theſe three generalls, to wit, The <hi>Covenanters,</hi> the <hi>Covenanted,</hi> and the <hi>Co<g ref="char:EOLhyphen"/>venant</hi> it ſelfe.</p>
+            <p>Firſt, the <hi>Covenanters,</hi> or thoſe who take or make this <hi>Covenant,</hi> are all who are cordially and candidely affected to the true <hi>Reformed Proteſtant Religion,</hi> in all the <hi>three Kingdomes</hi> of <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Secondly, the <hi>Covenanted,</hi> or he with whom we enter into <hi>Covenant,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Jehovah,</hi> our God, the great Creatour, and preſerver of Heaven and Earth.</p>
+            <p>Thirdly, there is the <hi>Covenant</hi> it ſelfe, wherein, and whereby the <hi>Cove<g ref="char:EOLhyphen"/>nanters</hi> oblige and bind themſelves ſolemnely unto God. Now in this <hi>Co<g ref="char:EOLhyphen"/>venant,</hi> are ſome things <hi>Morall</hi> and <hi>Politick,</hi> and ſome <hi>Theologicall</hi> and <hi>pious.</hi>
+            </p>
+            <p>FIRST, ſome things in this <hi>Covenant</hi> are <hi>Morall,</hi> and <hi>Politique,</hi> where<g ref="char:EOLhyphen"/>in foure things are remarkeable, viz. the <hi>Matter, Manner, Meanes,</hi> and <hi>Li<g ref="char:EOLhyphen"/>mits</hi> or <hi>Qualifications</hi> thereof.</p>
+            <p>Firſt, the <hi>Matter,</hi> or <hi>Materiall heads,</hi> of the <hi>Morall</hi> and <hi>Politicall part <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> this <hi>Covenant</hi> are theſe, to wit,
+<list>
+                  <item>I. <hi>Mutually to preſerve the Rights and Priviledges of the Parliaments.</hi> And</item>
+                  <item>II. <hi>The Liberties of the Kingdomes.</hi> And</item>
+                  <item>III. <hi>The Preſervation, and defence of the King:</hi> wherein theſe particular are included, to wit,</item>
+               </list>
+            </p>
+            <p>Firſt, whom muſt we endevour to <hi>preſerve</hi> &amp; <hi>defend?</hi> the Kings Majeſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>Secondly, what muſt we endevour to <hi>preſerve,</hi> and <hi>defend</hi> in the <hi>Kings</hi> His Majeſties <hi>Perſon</hi> and <hi>Authority.</hi>
+            </p>
+            <p>Thirdly, how muſt we endevour the <hi>proſervatiin</hi> of his <hi>perſon</hi> and <hi>autho<g ref="char:EOLhyphen"/>rity? In the preſervation, and defence of the true Religion, and Liberties of the Kingdomes,</hi> that is, either<g ref="char:punc">▪</g>
+               <list>
+                  <pb facs="tcp:125327:2"/>
+                  <item>1. We, by endeavouring the <hi>preſervation</hi> and <hi>defence</hi> of the <hi>true Religi<g ref="char:EOLhyphen"/>on,</hi> and <hi>Liberties of the Kingdomes,</hi> doe truely and really endeavour the <hi>pre<g ref="char:EOLhyphen"/>ſervation</hi> and <hi>defence</hi> of his Majeſties <hi>perſon</hi> and <hi>authority;</hi> they being the beſt friends, and ſtrongeſt <hi>ſupporters</hi> of his <hi>perſon</hi> and <hi>power,</hi> who ſtand moſt ſtoutly for the <hi>true Religion,</hi> and <hi>Liberties of the Kingdoms,</hi> the Kings Throne being eſtabliſhed by Piety, Equity, and Law. Or,</item>
+                  <item>2. We promiſe to endeavour to <hi>preſerve</hi> his Majeſties <hi>perſon</hi> and <hi>autho<g ref="char:EOLhyphen"/>rity,</hi> to wit, ſo long as he really endeavours the <hi>preſervation,</hi> and <hi>defence</hi> of the <hi>true Religion,</hi> and <hi>Liberties of the Kingdoms.</hi> And</item>
+               </list>
+            </p>
+            <p>Fourthly, Why or wherefore doe we thus endeavour the <hi>preſervation</hi> and <hi>defence</hi> of the Kings <hi>authority</hi> and <hi>perſon?</hi> to wit,
+<list>
+                  <item>1. That the world may beare witneſſe with our conſciences, of our <hi>loy<g ref="char:EOLhyphen"/>alty unto him.</hi> And</item>
+                  <item>2. That we may make it evident unto the world, <hi>that we have no thoughts or intentions to diminiſh his Majeſties juſt power, and gr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>atneſſe.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="4">IV. Another <hi>Materiall Head,</hi> or branch of the <hi>Politique part</hi> of this <hi>Covenant,</hi> is to diſcover malevolent, and ill-affected ſpirits, and perſons; wherein theſe three particulars are involved, viz.</p>
+            <p>Firſt, Whom muſt we diſcover? <hi>All ſuch as have beene, or ſhall be Incen<g ref="char:EOLhyphen"/>diaries, Malignants, or evill Inſtruments of the Church or State.</hi> And</p>
+            <p>Secondly, Wherein, or how doth their malignancy ſhew it ſelfe? viz.</p>
+            <list>
+               <item>1. <hi>By hindering the Reformation of Religion, i.e.</hi> by perſiſting, and obſti<g ref="char:EOLhyphen"/>nately continuing in any ſchiſme, errour, hereſie, old cuſtome, or ſuper<g ref="char:EOLhyphen"/>ſtitious practiſe, &amp;c.</item>
+               <item>2. <hi>By dividing the King from his people,</hi> i.e. by drawing him from his Parliament, or detaining (by counſell, perſwaſion, or otherwiſe his Ma<g ref="char:EOLhyphen"/>jeſty from comming unto, or complying with his Parliament. And</item>
+               <item>3. <hi>By dividing one of the Kingdomes from another,</hi> i.e. by raiſing aſperſi<g ref="char:EOLhyphen"/>ons, caſting ſcandals, fomenting jelouſies, or differences betwixt them, and the like. And</item>
+               <item>4. <hi>By making any faction, or parties amongſt the people, contrary to this League and Covenant.</hi> And</item>
+            </list>
+            <p>Thirdly, Why muſt we diſcover theſe, and the like Malignant perſons? <hi>That they may be brought to publike triall, and receive condigne puniſhment, as the degree of their offences ſhall require or deſerve, or the ſupreme Judicatories of both Kingdomes reſpectively, or others having power from them for that effect, ſhall judge convenient.</hi>
+            </p>
+            <p n="5">V. Another <hi>Materiall</hi> particular of the <hi>Morall part</hi> of this <hi>Covenant</hi> is, <hi>That whereas the happineſſe of a bleſſed peace betweene theſe Kingdomes, denyed in former times to our Progenitors, is by the good Providence of God granted unto us, and hath beene lately concluded, and ſetled by both Parliaments, we ſhall now
+<pb facs="tcp:125327:3"/>each one of us, according to our place and intereſt, endeavour that they may remaine conjoyned in a firme peace, and union to all poſterity.</hi> And</p>
+            <p n="6">VI. Another is, to <hi>aſſiſt, and defend all thoſe that enter into this league and Covenant, in the maintaining, and purſuing thereof.</hi> And</p>
+            <p n="7">VII. Not to ſuffer our ſelves to be divided, or withdrawne from this <hi>bleſſed Vnion</hi> and <hi>Conjunction.</hi> Now herein theſe foure particulars are un<g ref="char:EOLhyphen"/>folded, viz.</p>
+            <p>Firſt, the <hi>impulſive</hi> or <hi>moving cauſes</hi> of this diviſion and alienation; namely, <hi>Combination, p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſwaſion,</hi> and <hi>Terrour.</hi> And</p>
+            <p>Secondly, the <hi>Manner</hi> of this tie or obligation: viz. <hi>we muſt neither di<g ref="char:EOLhyphen"/>rectly nor indirectly</hi> ſuffer our ſelves to be diſ-joynted by any waies, or meanes whatſoever. And</p>
+            <p>Thirdly, when, or how we ſhow our ſelves to be divided, and with<g ref="char:EOLhyphen"/>drawne from this <hi>bleſſed Vnion,</hi> and <hi>Conjunction:</hi> to wit,
+<list>
+                  <item>1. <hi>When we make defection to the contrary part.</hi> And</item>
+                  <item>2. <hi>When we give our ſelves to a deteſtable indifferency, or neutrality in this cauſe, which ſo much concernes the glory of God, the good of the Kingdomes, and ho<g ref="char:EOLhyphen"/>nour of the King.</hi> And</item>
+               </list>
+            </p>
+            <p>Fourthly, the <hi>Meanes</hi> whereby we may better continue firme in this League of <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> without any alienation or fraction. Now theſe <hi>Means</hi> are
+<list>
+                  <item>1. To continue therein all the dayes of our lives <hi>zealouſly</hi> and <hi>conſtant<g ref="char:EOLhyphen"/>ly, againſt all oppoſition.</hi> And</item>
+                  <item>2. <hi>To promote the ſame according to our power, againſt all lets, and impedi<g ref="char:EOLhyphen"/>ments whatſoever.</hi> And</item>
+                  <item>3. <hi>What we are not able by our ſelves to ſuppr<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſe or over<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, to reveale and make knowne, that it may be timely prevented or removed.</hi> And thus much for the <hi>Matter,</hi> or <hi>Materiall Heads,</hi> and branches of the <hi>Morall</hi> and <hi>Politique part</hi> of this <hi>Covenant.</hi> Now</item>
+               </list>
+            </p>
+            <p>Secondly, the next thing herein is the <hi>Manner,</hi> how all theſe forena<g ref="char:EOLhyphen"/>med Particulars are to be obſerved, or performed; viz. <hi>ſyncerely, really, conſtantly, and faithfully:</hi> i.e. without any falſhood, faining, diffimulation, hypocriſie, coldneſſe, and inconſtancy. And</p>
+            <p>Thirdly, the next thing herein is, the <hi>Meanes</hi> which we muſt uſe for the performance of this <hi>part</hi> of our <hi>Covenant;</hi> namely, <hi>ſeriouſly to endea<g ref="char:EOLhyphen"/>vour with our perſons, purſes, eſtates, and lives, to performe what we have Co<g ref="char:EOLhyphen"/>venanted.</hi> And</p>
+            <p>Fourthly, the laſt thing herein is, the <hi>limits, bounds, cautions,</hi> or <hi>qualifi<g ref="char:EOLhyphen"/>cations</hi> of this <hi>part</hi> of the <hi>Covenant:</hi> to wit, to endeavour the performance of each clauſe, branch, or particular thereof, <hi>according to our ſeverall voca<g ref="char:EOLhyphen"/>tions, places, and intereſts,</hi> and no further. And thus much for the <hi>Morall,</hi> and <hi>Politique part</hi> of this <hi>Covenant.</hi> Now</p>
+            <pb facs="tcp:125327:3"/>
+            <p> SECONDLY, ſome things in this <hi>Covenant</hi> are <hi>Theologicall</hi> and <hi>pi<g ref="char:EOLhyphen"/>ous,</hi> wherein five things are notable, and worthy obſervation: viz. the <hi>Matter, Manner, Meanes, Limits,</hi> and <hi>End,</hi> or <hi>Scope.</hi>
+            </p>
+            <p>Firſt, the <hi>Matter,</hi> or <hi>Materiall Heads</hi> of the <hi>pious</hi> and <hi>Religious part</hi> of this <hi>Covenant</hi> are theſe five which follow: to wit,</p>
+            <p n="1">1. <hi>The Reformation of Religion in the Kingdomes of England and Ireland;</hi> wherein theſe foure things are expreſſed: viz.</p>
+            <p n="1">1. What muſt we endeavour the <hi>Reformation</hi> of? <hi>Of Religion.</hi> And</p>
+            <p n="2">2. Where? <hi>In the Kingdomes of England and Ireland.</hi> And</p>
+            <p n="3">3. Wherein? In theſe foure things: viz.</p>
+            <p>Firſt, <hi>in Doctrine;</hi> becauſe many Popiſh, Arminian, hereticall, ſchiſma<g ref="char:EOLhyphen"/>ticall, and heterodoxe doctrines have beene broached, and printed, and unſound tenents maintained, countenanced, and patronized in theſe King<g ref="char:EOLhyphen"/>domes. And</p>
+            <p>Secondly, <hi>in Worſhip,</hi> becauſe we were taught to worſhip God accor<g ref="char:EOLhyphen"/>ding to the humane inventions, and ordinances of man, and not accor<g ref="char:EOLhyphen"/>ding to the Word of God. And</p>
+            <p>Thirdly, <hi>in Diſcipline;</hi> becauſe many things therein were ſuperſtiti<g ref="char:EOLhyphen"/>ous, and not many tending either to edification, or decency. And</p>
+            <p>Fourthly, <hi>in Government;</hi> becauſe the <hi>Government</hi> of our <hi>Church</hi> by <hi>Arch-Biſhops, Biſhops, Deanes, Arch-Deacons, &amp;c.</hi> was never <hi>advantageous</hi> to our <hi>Church,</hi> but rather <hi>deſtructive;</hi> as our former ſuperſtitious, advan<g ref="char:EOLhyphen"/>cing of ſuperſtitious Prieſts, putting downe of preaching, ſilencing of Preachers, and the like, doe evidently confirme: and therefore none need queſtion the <hi>legality</hi> of the <hi>Parliaments aboliſhing</hi> of them, or of our <hi>aſsiſt<g ref="char:EOLhyphen"/>ing</hi> of them herein; this kind of <hi>Government</hi> not being <hi>Jure Divino,</hi> but <hi>Humane,</hi> at hath beene abundantly proved of late; and conſequently may be taken away by as lawfull authority, as it was inſtituted, to wit, <hi>the Parliament of the Kingdome,</hi> with which <hi>the King of Englands power</hi> is, al<g ref="char:EOLhyphen"/>though <hi>the Perſon of Charles Steward</hi> be abſent, &amp; ſeparated from them. And</p>
+            <p n="4">4. How muſt our <hi>Religion</hi> be <hi>Reformed?</hi> namely,</p>
+            <p>Firſt, <hi>according to the Word of God.</hi> And</p>
+            <p>Secondly, <hi>according to the example of the best Reformed Churches.</hi>
+            </p>
+            <p n="2">II. Another <hi>Materiall branch</hi> of the <hi>Theologicall part</hi> of this <hi>Covenant,</hi> is, <hi>the preſervation of the true, and truly Reformed Religion of the Church of Scot<g ref="char:EOLhyphen"/>land:</hi> wherein theſe two things are included: viz.</p>
+            <p>Firſt, whom, or what we engage our ſelves to <hi>preſerve:</hi> viz. <hi>The Reform<g ref="char:EOLhyphen"/>ed Religion in the Church of England in Doctriue, Worſhip, Diſcipline, and Go<g ref="char:EOLhyphen"/>vernment.</hi> And</p>
+            <p>Secondly, againſt whom doe we engage our ſelves to <hi>preſerve</hi> it: viz. Againſt <hi>our,</hi> or <hi>the common Enemy</hi> of <hi>Religion;</hi> namely the
+<pb facs="tcp:125327:4"/>
+               <hi>grand Impoſtor of Rome,</hi> with all his <hi>abetters,</hi> and <hi>adherents</hi> that is, as wee now deſire the aſſiſtance of our <hi>brethren</hi> of <hi>Scotland,</hi> againſt thoſe Atheiſts, Papiſts, and Iriſh Rebels, who have banded themſelves againſt us; ſo we <hi>covenant</hi> and <hi>promiſe,</hi> that if any of <hi>theſe,</hi> or the like <hi>Viperous Brood</hi> ſhall en<g ref="char:EOLhyphen"/>deavour to overthrow the <hi>Reformed Religion in Scotland, in Dectrine, Wor<g ref="char:EOLhyphen"/>ſhip, Diſcipline, and government,</hi> that we will to the utmoſt <hi>of our power and place, endeavour to preſerve it.</hi>
+            </p>
+            <p n="3">III. Another <hi>materiall head</hi> or branch <hi>of the pious part</hi> of this <hi>Covenant,</hi> is, <hi>to endeavour to bring the Churches of God in the three Kingdomes to the nea<g ref="char:EOLhyphen"/>reſt conjunction, and uniformity in Religion, confeſſion of faith, forme of Church government, directory for worſhip, and Catechizing.</hi> And</p>
+            <p n="4">IV. To endeavour <hi>the extirpation</hi> both, firſt, of <hi>Popery.</hi> And</p>
+            <p>Secondly, of <hi>Prelacy,</hi> i.e. <hi>Church Government by Archbiſhops, Biſhops, their Chancellours, and Commiſſaries, Arch-Deacons, Deanes, Deanes and Chapters, and all other Eccleſiaſticall Officers depending on that Hierarchy.</hi> And</p>
+            <p>Thirdly, <hi>Superſtition.</hi> And fourthly, <hi>Hereſie.</hi> And fiftly, <hi>Schiſme.</hi> And</p>
+            <p>Sixtly, <hi>Prophaneneſſe.</hi> And ſeventhly, <hi>whatſoever ſhall be found to be contra<g ref="char:EOLhyphen"/>ry to ſound doctrine, and the power of godlineſſe.</hi> And</p>
+            <p n="5">V. Another <hi>materiall head</hi> of the <hi>Theologicall part</hi> of this <hi>Godmans,</hi> is <hi>the amendment of lifes</hi> wherein theſe two things are obſervable, viz.</p>
+            <p>Firſt, the <hi>Cauſe</hi> moving us to this <hi>amendment of life,</hi> which is two<g ref="char:EOLhyphen"/>fold, viz.</p>
+            <list>
+               <item>1. The conſideration of <hi>our guiltineſſe, by reaſon of our mani<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s, and pro<g ref="char:EOLhyphen"/>vocations againſt God, and his Sonne Jeſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Chriſt.</hi> And</item>
+               <item>2. <hi>Our preſent diſtreſſes and dangers, the fruits of that guiltineſſe.</hi> And</item>
+            </list>
+            <p>Secondly, the expreſſion of this <hi>amendment of life.</hi> Note here, our <hi>amend<g ref="char:EOLhyphen"/>ment of life</hi> is expreſſed either by our <hi>actions</hi> or <hi>affection,</hi> our <hi>deeds</hi> or <hi>deſire.</hi>
+            </p>
+            <p>FIRST, by our <hi>deeds,</hi> and <hi>actions</hi> or <hi>words,</hi> for we <hi>profeſſe and declare before God, and the world, our unfained deſire to bee humbled.</hi> Now here three things crave our animadverſion, viz.</p>
+            <p n="1">I. For what muſt we be humbled? <hi>For our owne ſinnes, and the ſinnes of theſe Kingdomes.</hi> And</p>
+            <p n="2">II. For what ſinnes muſt we humble our ſelves? viz. for theſe: namely,
+<list>
+                  <item>1. <hi>That wee have not as wee ought, valued the ineſtimable benefit of the Goſpel.</hi> And</item>
+                  <item>2. <hi>That we have not laboured for the puritie, and power thereof.</hi> And</item>
+                  <item>3. <hi>That we have not endeavored to receive Chriſt in our hearts, nor to walke worthy of him in our lives.</hi> And.</item>
+               </list>
+            </p>
+            <p n="3">III. Why muſt we humble our ſelves for theſe ſinnes? <hi>becauſe they are the cauſes of other ſinnes and tranſgreſſions, ſo much abounding amongſt us.</hi> And</p>
+            <p>SECONDLY, our <hi>amendment of life</hi> is expreſſed by our <hi>affections,</hi> and
+<pb facs="tcp:125327:4"/>true and unfained <hi>purpoſes</hi> and <hi>deſires,</hi> which reſpect both <hi>our ſelves</hi> and <hi>ours,</hi> wherein three things are conſiderable, to wit,</p>
+            <p>Firſt, the <hi>matter</hi> of this <hi>purpoſe</hi> and <hi>deſire;</hi> namely,
+<list>
+                  <item>I. <hi>To amend our lives.</hi> And</item>
+                  <item>II. <hi>Each one of us to goe before other in the example of a reall reformation.</hi> And</item>
+               </list>
+            </p>
+            <p>Secondly, the <hi>extent</hi> of this <hi>purpoſe</hi> and <hi>deſire,</hi> to wit,
+<list>
+                  <item>I. <hi>It muſt be both in publique and private.</hi> And</item>
+                  <item>II. <hi>In all duties we owe to God and man.</hi> And</item>
+               </list>
+            </p>
+            <p>Thirdly, the <hi>ſcope</hi> or <hi>end</hi> of this <hi>purpoſe</hi> and <hi>deſire</hi> of <hi>amendment;</hi> which is
+<list>
+                  <item>I. <hi>That the Lord may turn away his wrath, and heavy indignation from us.</hi> And</item>
+                  <item>II. <hi>That he may eſtabliſh theſe Churches, and kingdomes in truth and peace:</hi> and thus much for the <hi>matter</hi> of the <hi>Theologicall part</hi> of this <hi>Covenant.</hi> Now</item>
+               </list>
+            </p>
+            <p>Secondly, the next thing in this <hi>part</hi> is the <hi>manner</hi> thereof, to wit, That every branch, clauſe, part, and particle of this <hi>Covenant,</hi> be perfor<g ref="char:EOLhyphen"/>med, and obſerved <hi>ſincerely, really, faithfully, and conſtantly.</hi> And</p>
+            <p>Thirdly, next in order followes the <hi>meanes,</hi> whereby we may be en<g ref="char:EOLhyphen"/>abled to <hi>performe</hi> what we have <hi>promiſed;</hi> which are</p>
+            <p n="1">1. An <hi>earneſt endeavour,</hi> to the utmoſt of our ability, to <hi>pay</hi> our <hi>Vowes,</hi> and <hi>performe</hi> all our <hi>promiſes</hi> unto God. And</p>
+            <p n="2">II. <hi>The grace of God</hi> enabling us, in ſome meaſure thereunto. And</p>
+            <p>Fourthly, another thing in this <hi>Theologicall part</hi> of our <hi>Covenant,</hi> is the <hi>limits</hi> or <hi>qualification</hi> thereof, viz. We muſt endeavour to obſerve every branch of this <hi>Covenant,</hi> according <hi>to our ſeverall places, vocations, and inte<g ref="char:EOLhyphen"/>reſts.</hi> And</p>
+            <p>Fiftly, the laſt thing in this <hi>part,</hi> is the <hi>ſcope</hi> or <hi>end</hi> of it, which is foure<g ref="char:EOLhyphen"/>fold; to wit,
+<list>
+                  <item>I. <hi>That all we in all theſe three kingdomes of England, Scotland and Ireland, and our poſterity after us, may as brethren live in faith and love.</hi> And</item>
+                  <item>II. <hi>That the Lord may delight to dwell amongſt us.</hi> And</item>
+                  <item>III. <hi>That the Lord may bee one, and his name one in all the three King<g ref="char:EOLhyphen"/>domes.</hi> And</item>
+                  <item>IV. <hi>That we may not partake in other mens ſent, and thereby be in danger to receive of their plagues.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And thus much for the <hi>ſecond generall part</hi> of this <hi>Covenant, viz.</hi> the <hi>Narration.</hi> Now</p>
+            <p>THIRDLY, the <hi>laſt generall part,</hi> is the <hi>Peroration</hi> or <hi>Concluſion,</hi> where<g ref="char:EOLhyphen"/>in are theſe foure particular branches, to wit, An <hi>Atteſtation, Proteſtation, Appeale,</hi> and <hi>Supplication.</hi>
+            </p>
+            <p>Firſt, in the <hi>Atteſtation,</hi> or calling God to witneſſe, Wee acknowledge three things; <hi>viz.</hi>
+            </p>
+            <p n="1">I. That <hi>God</hi> is <hi>preſent</hi> with us, at the taking of this <hi>Covenant</hi> or <hi>Oath:</hi> And</p>
+            <p n="2">II. That he who is <hi>preſent</hi> is <hi>Almighty,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it, both to reward us, if wee performe what wee promiſe, and to puniſh us, if wee be Covenant-breakers,
+<pb facs="tcp:125327:5"/>or falſifie our <hi>Oath</hi> unto God: And</p>
+            <p n="3">III. That as he is <hi>infinite</hi> in <hi>power,</hi> ſo he is <hi>infinite</hi> in <hi>knowledge,</hi> the very thoughts, purpoſes, and intentions of our hearts being knowne unto him. And this is laid downe in theſe words, <hi>And this Vow and Covenant, I make in the preſence of Almighty God, the Searcher of all hearts.</hi>
+            </p>
+            <p>Secondly, in the <hi>Proteſtation,</hi> we promiſe in the preſence of Almighty God theſe two things, to wit,</p>
+            <p n="1">I. To performe all the contents of this <hi>Oath,</hi> and this is the <hi>Matter</hi> of the <hi>Proteſtation:</hi> And</p>
+            <p n="2">II. To performe it with a full and true intention of heart; and this is the <hi>manner</hi> of the <hi>Proteſtation;</hi> both which are laid downe in theſe words, <hi>And this Vow and Covenant I make with a true intention to performe the ſame.</hi>
+            </p>
+            <p>Thirdly, the <hi>Appeale</hi> is contained in theſe words, <hi>This I promiſe to per<g ref="char:EOLhyphen"/>forme, as I ſhall anſwer at the great Day, when the ſecrets of all hearts ſhall be diſ<g ref="char:EOLhyphen"/>cloſed;</hi> wherein are theſe five things; to wit,</p>
+            <p n="1">I. A beliefe, that there ſhall be a day of Judgement: And</p>
+            <p n="2">II. That at that Day all ſhall be judged: And</p>
+            <p n="3">III. That at that Day all ſecrets and ſecret things, (that is, all ſecret actions, intentions, purpoſes and deſires) ſhall be diſcovered, diſcloſed, laid open and manifeſted: And</p>
+            <p n="4">IV. A beliefe that we ſhall moſt juſtly, and impartially at that day bee judged, by the moſt juſt Judge, according to thoſe actions, intentions, purpoſes, and deſires which are then diſcovered, and manifeſted to have beene in us: And</p>
+            <p n="5">V. A ſecret and implicite Imprecation, <hi>God doe ſo to me, and more alſo at that day;</hi> or, <hi>I deſire that I may finde neither mercy, nor favour at the hards of my all-ſeeing, all-knowing Judge, at the great and dreadfull day of Judgement, if I doe not now faithfully, and fully purpoſe, and ſhall hereafter firmety and unfained<g ref="char:EOLhyphen"/>ly endeavour to performe to the utmoſt of my power, whatſoever is contained in this Oath or Covenant.</hi> Now</p>
+            <p>Fourthly, in the ſupplication theſe three things are included.</p>
+            <list>
+               <item>I. The <hi>Petitioners;</hi> namely, we who make this <hi>Covenant.</hi> And</item>
+               <item>II. The <hi>Petitioned;</hi> to wit, the <hi>Lord:</hi> And</item>
+               <item>III. The <hi>Petition,</hi> which conſiſts of theſe two branches, <hi>viz.</hi>
+               </item>
+            </list>
+            <p>Firſt, <hi>That the Lord would ſo ſtrengthen us by his holy Spirit,</hi> that we may be enabled to <hi>perform,</hi> whatſoever we have <hi>vo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</hi> or <hi>promiſed</hi> in this <hi>Covenant.</hi>
+            </p>
+            <p>Secondly, <hi>that the Lord would bleſſe our deſires, and proceedings with ſuch good ſucceſſe, as may be deliverance &amp; ſafety to his people, and encour agement to other Chriſtian Churches, groaning under, or in danger of the Yoake of Anti-thriſtian Ty<g ref="char:EOLhyphen"/>ranny to joyne in the ſame, or like aſſociation and Covenant, to the glory of God, the enlargement of the Kingdome of Jeſus Chriſt, and the peace and tranquillity of Chriſtian Kingdomes and Commonwealths.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
